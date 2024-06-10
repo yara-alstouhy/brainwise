@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/brainwise.iml" filepath="$PROJECT_DIR$/.idea/brainwise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../collage/year 4/GP/gp/.idea/gpcode.iml" filepath="$PROJECT_DIR$/../collage/year 4/GP/gp/.idea/gpcode.iml" />
+    </modules>
+  </component>
+</project>
